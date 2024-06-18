@@ -25,7 +25,7 @@ BEGIN
 END;
 $$;
 
---
+
 --3
 CREATE OR REPLACE PROCEDURE sp_alunos_aprovados_estudam_sozinhos(
     OUT v_num_alunos_aprovados INT
